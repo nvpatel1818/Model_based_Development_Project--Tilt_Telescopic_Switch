@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" height="645.546100px" preserveAspectRatio="xMinYMin meet" viewBox="77.34 133.65 761.69 645.55" width="761.685875px" x="0" y="0" zoomAndPan="disable">
+  <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+    <!--RAWSTRING-->
+    <g id="background" pointer-events="none">
+      <g clip-path="none" fill="#fff5e1" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,0)">
+        <path d="M78.338,134.651 L838.024,134.651 L838.024,778.198 L78.338,778.198 L78.338,134.651 z" fill-rule="evenodd" vector-effect="none"/>
+      </g>
+      <!--RAWSTRING-->
+    </g>
+    <!--RAWSTRING-->
+    <g id="Tilt_Telescopic_Switch:132">
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:7">
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.5,602.952)">
+          <image height="47" preserveAspectRatio="none" width="135" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAvCAYAAADJqNmJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACgklEQVR4nO2cu27bQBBFDxk9bDkPBogbN6ny/z+VBAkcxLJl2XozxeyCK5JDFS6CJe4BBkNTVjVHl5QATsE5E2Daqlk4XyJyowaOwB7YhR7rAJyG3lyEXmIiXAML4Cb0RTgnOfIkyrED1sBLqDXwCmwxSXqZhD7FhPgIVMCnpF+F1wsamUQe1Njwd8AzsAz1GKrAJDn2vXkS6hoT40uo21AVSo6cicmxxeS4x0JghokR5XHlmGKXjwoT4y6pKIeSI0/S5FgB74E5Nsd4udmE3rn/iHLcYJeQW0yKr6E+01xWlBz5kSbHCvugl8m5FyxR1gzIEZMjleMbSo6cqTm/IV1hqXHE0mKF3X/McT74qRzxJrTCEqPCYugdkiJHiqTiDNPZVsAH7MrgyjHD0uEq9PRYYuRPnJ835zk25w4lzTeWKd0fwSTGOChoZh3nnB73JkeZVNHTxbgo6Z+5K0ekcLoYB8WF6qCvp8JFcggXySFcJIdwkRzCRXIIF8khXCSHcJEcwkVyCBfJIVwkh3CRHMJFcggXySFcJIdwkRzCRXIIF8khXFI5aqeLcVBfqA4l9hjcKfxDu4txcWpVnRx3KLEHbQ80Cz3SBR8SZBxECdI5p8euHDtsR8Mm9PT4iATJnXjZ8Oa8ZWAFwx572vqRZrnHQ+igB6lzpf0g9RPns11iD1NvcJIjlWOJLfdYYDKAVjDkTnsFww/gO/Abk+Q5vDYoxxpLjnsaMfZoBUPutJe3/AJ+YnL8DecuyhGTI+4Ii+e09ilv+tY+/Qn9AQuFQTkO2M1JHH78+wktjMudSwvj1lgQ9KJVk+PmTasm20kwtKRWyZEfb1pSK4QQQgghxH/lH+JL4kOct+PjAAAAAElFTkSuQmCC" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad1" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#fcf3e1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad1)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,604.452)">
+          <path d="M0,4.655 C0,2.08411 2.08411,0 4.655,0 L117.776,0 C120.347,0 122.431,2.08411 122.431,4.655 L122.431,30.345 C122.431,32.9159 120.347,35 117.776,35 L4.655,35 C2.08411,35 0,32.9159 0,30.345 L0,4.655 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad2" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#fcf3e1"/>
+            </linearGradient>
+            <clipPath id="clip2">
+              <path d="M-138.591,-472.73 L621.095,-472.73 L621.095,176.317 L-138.591,176.317 L-138.591,-472.73 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip2)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,216.929,607.381)">
+            <path d="M1,1 L61.2031,1 L61.2031,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip3">
+              <path d="M-138.591,-472.73 L621.095,-472.73 L621.095,176.317 L-138.591,176.317 L-138.591,-472.73 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip3)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,216.929,607.381)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="60.2031" x="1" xml:space="preserve" y="10.2344">Stuck_Wait</text>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad4" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#fcf3e1"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,604.452)">
+            <path d="M0,4.655 C0,2.08411 2.08411,0 4.655,0 L117.776,0 C120.347,0 122.431,2.08411 122.431,4.655 L122.431,30.345 C122.431,32.9159 120.347,35 117.776,35 L4.655,35 C2.08411,35 0,32.9159 0,30.345 L0,4.655 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:9">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad5" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#fcf3e1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,661.784,433.262)">
+          <image height="54" preserveAspectRatio="none" width="89" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAA2CAYAAACsqTUgAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2UlEQVR4nO2c227aQBBAj10DSUCiF/LQvjQP/f+fqtqqouWShIsTLn2YHe3a8dogVfviOdJoUDAr5XgY29IOGVVyoAAGtRgC74CM/nEGjsBrEC8uH4BT1wKhtAIYAbfAGLgLYoRJfgF2wAbYurwDSkR4lCLIt8AEmLp47/IEqeQCk7wB1sDK5TXw5I6Lii6QFjFCZH4AZsC9i09IVVsle8kLYA7cIE5AWsaRSOso8FU8RQR/Br64mGGVXJf8F2mhA/d+2K/LpgX0IjdGJN8jcr8CD4jkMSY5lPwR8ZEhF74S6c1bOiTfIT1YJT8A3/CSw3bRJ9Fnlw+I5C1SySCVuwWegUekPzcSSp4iPXgWxBR/1vokV9H/uUCKTG8UVi6WLv7gPZ1ra5DjJU+QqtU8pt+CQ9TBEO+mHgMinnL3wVEt62sT7FEPA5p9DWMfzJGvgX4VNOtrE1wlw/tqimglZy1hNHOVq7xjIeNyorLbJBv/CZOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcAJOcgEsln2jY42VcRpvkUKpugjHinIkUYl47iNiBRoWrXOVIK4iFCX+LVuwpyCc6Kvm1JYwqZ2RD+FW+VPIO2LscxgGrZkXHGtRTmPfITvxGVwV+W/46CN1JniNDO32dF1G0gvdU/aivDR0jZjoLsUJGp8aI2KH7+4R+z4xoBZf4mZEfwC/E1wqR3FnJOgQ4R+TmbuEV1cGcPj686IWtxM/xfQd+UpXcWslhuxjgBZfI0IlV8ts5vt8u5oi3rXu/kQLfzB8RgeFZW2KVHLYLdbJwsUQk601CIzoypWdBG/wOmRle0O85PvAjvVrJTy6eXbRWMVSFZYj0ITI3PHL5hupEap8k19vFPogS/5MMrbe5TcIy/FRUPfdJsKJPdUf8kLpme4YwDMMwjDr/AOIK/RCUJZDlAAAAAElFTkSuQmCC" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad6" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad6)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,663.284,434.762)">
+          <path d="M0,5.51683 C0,2.46997 2.46997,0 5.51683,0 L70.5931,0 C73.6399,0 76.1099,2.46997 76.1099,5.51683 L76.1099,35.9631 C76.1099,39.0099 73.6399,41.4799 70.5931,41.4799 L5.51683,41.4799 C2.46997,41.4799 0,39.0099 0,35.9631 L0,5.51683 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad7" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+            </linearGradient>
+            <clipPath id="clip5">
+              <path d="M-587.875,-303.039 L171.811,-303.039 L171.811,346.007 L-587.875,346.007 L-587.875,-303.039 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip5)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,666.212,437.69)">
+            <path d="M1,1 L16.7656,1 L16.7656,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip6">
+              <path d="M-587.875,-303.039 L171.811,-303.039 L171.811,346.007 L-587.875,346.007 L-587.875,-303.039 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip6)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,666.212,437.69)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="15.7656" x="1" xml:space="preserve" y="10.2344">Off</text>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad9" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,663.284,434.762)">
+            <path d="M0,5.51683 C0,2.46997 2.46997,0 5.51683,0 L70.5931,0 C73.6399,0 76.1099,2.46997 76.1099,5.51683 L76.1099,35.9631 C76.1099,39.0099 73.6399,41.4799 70.5931,41.4799 L5.51683,41.4799 C2.46997,41.4799 0,39.0099 0,35.9631 L0,5.51683 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:3">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad10" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,208.5,288.576)">
+          <image height="121" preserveAspectRatio="none" width="266" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad11" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad11)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,210,290.076)">
+          <path d="M0,14.4183 C0,6.45529 6.45529,0 14.4183,0 L239.582,0 C247.545,0 254,6.45529 254,14.4183 L254,93.9899 C254,101.953 247.545,108.408 239.582,108.408 L14.4183,108.408 C6.45529,108.408 0,101.953 0,93.9899 L0,14.4183 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad12" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+            </linearGradient>
+            <clipPath id="clip8">
+              <path d="M-135.885,-159.647 L623.801,-159.647 L623.801,489.399 L-135.885,489.399 L-135.885,-159.647 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip8)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,214.223,294.299)">
+            <path d="M1,1 L55.6875,1 L55.6875,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip9">
+              <path d="M-135.885,-159.647 L623.801,-159.647 L623.801,489.399 L-135.885,489.399 L-135.885,-159.647 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip9)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214.223,294.299)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="54.6875" x="1" xml:space="preserve" y="10.2344">Debounce</text>
+          </g>
+          <!--RAWSTRING-->
+          <g id="Tilt_Telescopic_Switch:132:5">
+            <defs>
+              <linearGradient gradientUnits="objectBoundingBox" id="grad14" x1="0" x2="0" y1="0" y2="1">
+                <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+              </linearGradient>
+            </defs>
+            <g clip-path="none" fill="url(#grad14)" opacity="0.4" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,225.5,324.5)">
+              <image height="56" preserveAspectRatio="none" width="102" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAA4CAYAAAAPW43lAAAACXBIWXMAAAsTAAALEwEAmpwYAAADKUlEQVR4nO2cTW/TQBBAXxy3CWlKCiEHuHBA/Bb+/5kiwQEO9IMU2hLyyWFm5fV6HcepkVZonjSaJI4jdV7HdhyPe5TpATlw4sWp5lyXG4exA9bAClhqdrHW5bX4he4jEkZenGkeYGLa4sT8AR6BB80ulsCmbuVccx8YAmPgOXABTDSPKcRk/+Iv+E/ZUoi5B+bAneZcX1tQI8d1wSki4AUwBWYaU319iHVMW1zHLBAJN8AVUuu+vmeryyubtVxjhHTKFHgNvNF4BZxT3pSZnGZ2lDdlv5CtzzOKrdSGYn+zCj/A7ehHuuIMEfJWY4Z1zLGEHXOB1Bp9fanLFjSImVAW8x7rmGOJdcxEl62A34isnxoVnJgzxOgUkTHTfIFIyTAhbXD/wCfI/sTtU9zOfw78AG4puqhERnGIPEa649x7bFKeRg+p34ByXccaI6T+FTLE2CCIISalK3w5wyAP2NMx+Z4wKd3gzqjURQXXEb3gse3kuyesrV/vCrFv8r0gG93Qqq52iiVRTEyimJhEMTGJEj1UM/ayBT4DH4FLL18Cn5DTMNDwQ1gT1jGJYmISxcQkiolJFBOTKCYmUUxMopiYRDExiWJiEsXEJIqJSRQTkygmJlFMTKKYmEQxMYliYhLFxHSHu8K/E0zMceyC3Dn7LsbYYVdjxsiAdxofWqzXSmZG0YJhGN3i17Wx1hkyC7hBLrsJswnqhh31dY5OLWcUNwhYImNpfrbueTquhrH6uhszVMh0obtBQBgm52n4UmL1dTdiqJAjxh6Q+cBbZB79pWaQ+Ux/Nt0kNeMOmjYUUm4o6nuL1PuBmo5xYh6Rgc0rirnAHjJRO9bnNmHWDje1vESmlq+BL8A3pM5zpO6NYu6Q2cATRMBaV/ZvWWJiDscfJ79HxHxFxFwj9d4rZk0hxm2uNsgsui+mj40AHorbt2woi7kCvlMWs459QI5cve5WRp8vKW5Mc4Z1zDGEHTMP4l6XbWMr+4XOkU2Zux2WH9Yx7Qg7JnY0tqCmW6BaZDf3fxqJfuT9Rj1OzDISK2o6xbGv0OH4s42ZH07daS77qmEYhmEYRpy/J5kJZ4L6Qb8AAAAASUVORK5CYII=" y="0"/>
+            </g>
+            <defs>
+              <linearGradient gradientUnits="objectBoundingBox" id="grad15" x1="0" x2="0" y1="0" y2="1">
+                <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+              </linearGradient>
+            </defs>
+            <g clip-path="none" fill="url(#grad15)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,227,326)">
+              <path d="M0,5.7456 C0,2.57239 2.57239,0 5.7456,0 L84.2544,0 C87.4276,0 90,2.57239 90,5.7456 L90,37.4544 C90,40.6276 87.4276,43.2 84.2544,43.2 L5.7456,43.2 C2.57239,43.2 0,40.6276 0,37.4544 L0,5.7456 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+            <g data-tags="dragRegion">
+              <defs>
+                <linearGradient gradientUnits="objectBoundingBox" id="grad16" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                  <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+                </linearGradient>
+                <clipPath id="clip11">
+                  <path d="M-151.591,-194.277 L608.095,-194.277 L608.095,454.769 L-151.591,454.769 L-151.591,-194.277 z"/>
+                </clipPath>
+              </defs>
+              <g clip-path="url(#clip11)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,229.929,328.929)">
+                <path d="M1,1 L78.125,1 L78.125,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+              </g>
+              <defs>
+                <clipPath id="clip12">
+                  <path d="M-151.591,-194.277 L608.095,-194.277 L608.095,454.769 L-151.591,454.769 L-151.591,-194.277 z"/>
+                </clipPath>
+              </defs>
+              <g clip-path="url(#clip12)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,229.929,328.929)">
+                <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="77.125" x="1" xml:space="preserve" y="10.2344">Off_Debounce</text>
+              </g>
+              <!--RAWSTRING-->
+            </g>
+            <!--RAWSTRING-->
+            <g data-tags="frame">
+              <defs>
+                <linearGradient gradientUnits="objectBoundingBox" id="grad18" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                  <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+                </linearGradient>
+              </defs>
+              <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,227,326)">
+                <path d="M0,5.7456 C0,2.57239 2.57239,0 5.7456,0 L84.2544,0 C87.4276,0 90,2.57239 90,5.7456 L90,37.4544 C90,40.6276 87.4276,43.2 84.2544,43.2 L5.7456,43.2 C2.57239,43.2 0,40.6276 0,37.4544 L0,5.7456 z" fill-rule="evenodd" vector-effect="none"/>
+              </g>
+              <!--RAWSTRING-->
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g id="Tilt_Telescopic_Switch:132:4">
+            <defs>
+              <linearGradient gradientUnits="objectBoundingBox" id="grad21" x1="0" x2="0" y1="0" y2="1">
+                <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+              </linearGradient>
+            </defs>
+            <g clip-path="none" fill="url(#grad21)" opacity="0.4" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,355.5,324.5)">
+              <image height="56" preserveAspectRatio="none" width="102" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAA4CAYAAAAPW43lAAAACXBIWXMAAAsTAAALEwEAmpwYAAADKUlEQVR4nO2cTW/TQBBAXxy3CWlKCiEHuHBA/Bb+/5kiwQEO9IMU2hLyyWFm5fV6HcepkVZonjSaJI4jdV7HdhyPe5TpATlw4sWp5lyXG4exA9bAClhqdrHW5bX4he4jEkZenGkeYGLa4sT8AR6BB80ulsCmbuVccx8YAmPgOXABTDSPKcRk/+Iv+E/ZUoi5B+bAneZcX1tQI8d1wSki4AUwBWYaU319iHVMW1zHLBAJN8AVUuu+vmeryyubtVxjhHTKFHgNvNF4BZxT3pSZnGZ2lDdlv5CtzzOKrdSGYn+zCj/A7ehHuuIMEfJWY4Z1zLGEHXOB1Bp9fanLFjSImVAW8x7rmGOJdcxEl62A34isnxoVnJgzxOgUkTHTfIFIyTAhbXD/wCfI/sTtU9zOfw78AG4puqhERnGIPEa649x7bFKeRg+p34ByXccaI6T+FTLE2CCIISalK3w5wyAP2NMx+Z4wKd3gzqjURQXXEb3gse3kuyesrV/vCrFv8r0gG93Qqq52iiVRTEyimJhEMTGJEj1UM/ayBT4DH4FLL18Cn5DTMNDwQ1gT1jGJYmISxcQkiolJFBOTKCYmUUxMopiYRDExiWJiEsXEJIqJSRQTkygmJlFMTKKYmEQxMYliYhLFxHSHu8K/E0zMceyC3Dn7LsbYYVdjxsiAdxofWqzXSmZG0YJhGN3i17Wx1hkyC7hBLrsJswnqhh31dY5OLWcUNwhYImNpfrbueTquhrH6uhszVMh0obtBQBgm52n4UmL1dTdiqJAjxh6Q+cBbZB79pWaQ+Ux/Nt0kNeMOmjYUUm4o6nuL1PuBmo5xYh6Rgc0rirnAHjJRO9bnNmHWDje1vESmlq+BL8A3pM5zpO6NYu6Q2cATRMBaV/ZvWWJiDscfJ79HxHxFxFwj9d4rZk0hxm2uNsgsui+mj40AHorbt2woi7kCvlMWs459QI5cve5WRp8vKW5Mc4Z1zDGEHTMP4l6XbWMr+4XOkU2Zux2WH9Yx7Qg7JnY0tqCmW6BaZDf3fxqJfuT9Rj1OzDISK2o6xbGv0OH4s42ZH07daS77qmEYhmEYRpy/J5kJZ4L6Qb8AAAAASUVORK5CYII=" y="0"/>
+            </g>
+            <defs>
+              <linearGradient gradientUnits="objectBoundingBox" id="grad22" x1="0" x2="0" y1="0" y2="1">
+                <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+              </linearGradient>
+            </defs>
+            <g clip-path="none" fill="url(#grad22)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,357,326)">
+              <path d="M0,5.7456 C0,2.57239 2.57239,0 5.7456,0 L84.2544,0 C87.4276,0 90,2.57239 90,5.7456 L90,37.4544 C90,40.6276 87.4276,43.2 84.2544,43.2 L5.7456,43.2 C2.57239,43.2 0,40.6276 0,37.4544 L0,5.7456 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+            <g data-tags="dragRegion">
+              <defs>
+                <linearGradient gradientUnits="objectBoundingBox" id="grad23" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                  <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+                </linearGradient>
+                <clipPath id="clip14">
+                  <path d="M-281.591,-194.277 L478.095,-194.277 L478.095,454.769 L-281.591,454.769 L-281.591,-194.277 z"/>
+                </clipPath>
+              </defs>
+              <g clip-path="url(#clip14)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,359.929,328.929)">
+                <path d="M1,1 L78.3594,1 L78.3594,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+              </g>
+              <defs>
+                <clipPath id="clip15">
+                  <path d="M-281.591,-194.277 L478.095,-194.277 L478.095,454.769 L-281.591,454.769 L-281.591,-194.277 z"/>
+                </clipPath>
+              </defs>
+              <g clip-path="url(#clip15)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,359.929,328.929)">
+                <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="77.3594" x="1" xml:space="preserve" y="10.2344">On_Debounce</text>
+              </g>
+              <!--RAWSTRING-->
+            </g>
+            <!--RAWSTRING-->
+            <g data-tags="frame">
+              <defs>
+                <linearGradient gradientUnits="objectBoundingBox" id="grad25" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+                  <stop offset="1" stop-opacity="1" stop-color="#fbf2df"/>
+                </linearGradient>
+              </defs>
+              <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,357,326)">
+                <path d="M0,5.7456 C0,2.57239 2.57239,0 5.7456,0 L84.2544,0 C87.4276,0 90,2.57239 90,5.7456 L90,37.4544 C90,40.6276 87.4276,43.2 84.2544,43.2 L5.7456,43.2 C2.57239,43.2 0,40.6276 0,37.4544 L0,5.7456 z" fill-rule="evenodd" vector-effect="none"/>
+              </g>
+              <!--RAWSTRING-->
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad28" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,210,290.076)">
+            <path d="M0,14.4183 C0,6.45529 6.45529,0 14.4183,0 L239.582,0 C247.545,0 254,6.45529 254,14.4183 L254,93.9899 C254,101.953 247.545,108.408 239.582,108.408 L14.4183,108.408 C6.45529,108.408 0,101.953 0,93.9899 L0,14.4183 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:1">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad29" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,208.5,169.151)">
+          <image height="74" preserveAspectRatio="none" width="266" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad30" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f9efda"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad30)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,210,170.651)">
+          <path d="M0,8.15569 C0,3.65143 3.65143,0 8.15569,0 L245.844,0 C250.349,0 254,3.65143 254,8.15569 L254,53.1653 C254,57.6696 250.349,61.321 245.844,61.321 L8.15569,61.321 C3.65143,61.321 0,57.6696 0,53.1653 L0,8.15569 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad31" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f9efda"/>
+            </linearGradient>
+            <clipPath id="clip17">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip17)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,212.929,173.581)">
+            <path d="M1,1 L70.3281,1 L70.3281,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip18">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip18)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.929,173.581)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="69.3281" x="1" xml:space="preserve" y="10.2344">Not_Pressed</text>
+          </g>
+          <defs>
+            <clipPath id="clip19">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip19)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,212.929,173.581)">
+            <path d="M1,13 L17.6719,13 L17.6719,24.9844 L1,24.9844 L1,13 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip20">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip20)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.929,173.581)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="16.6719" x="1" xml:space="preserve" y="22.2344">en:</text>
+          </g>
+          <defs>
+            <clipPath id="clip21">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip21)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,212.929,173.581)">
+            <path d="M1,25 L143.297,25 L143.297,36.9844 L1,36.9844 L1,25 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip22">
+              <path d="M-134.591,-38.929 L625.095,-38.929 L625.095,610.117 L-134.591,610.117 L-134.591,-38.929 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip22)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.929,173.581)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="142.297" x="1" xml:space="preserve" y="34.2344">Up_Switch_Output = false;</text>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad33" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f9efda"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,210,170.651)">
+            <path d="M0,8.15569 C0,3.65143 3.65143,0 8.15569,0 L245.844,0 C250.349,0 254,3.65143 254,8.15569 L254,53.1653 C254,57.6696 250.349,61.321 245.844,61.321 L8.15569,61.321 C3.65143,61.321 0,57.6696 0,53.1653 L0,8.15569 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:6">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad34" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f9efda"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.5,455.087)">
+          <image height="102" preserveAspectRatio="none" width="259" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAABmCAYAAADPn/SWAAAACXBIWXMAAAsTAAALEwEAmpwYAAAH3ElEQVR4nO3dXXPbxhWH8UekpNiWG9fj2m3qZHLRfI9etl+mn9jxpHUSN4llS4r1LlHsxe4plhBIAbQoCvDzm9kBJfFFN+fPs7sguMHNNoDNPLZqYxMY5ftIWr0pcAVcAhe1cZnHdJknXlTEI1LBbwMPgUfFeJB/v5mfwzCQ7sY0j0vgHDgFjotxkn9/QQqN1uYV8RbwBanwHwN/AJ7ksUMKh7IzWPRckm5HvOOXncEJcAQc5PEROCQFw1m+Tyv1At4gFXmEwBPgKfAsjyf59w9wmiCtQ32acEoq/gPgfR57+ecIhQtaTB02az9vkd75IwSeAy+APwN/ws5AWqebOoOnpC7+EbPT+CPS1GGhMgyiI3hCKvwXwF+Bl8BXVJ1BUxgYBNLdqHcG9TCIzn0TGBePmXLDlCHCYERaI3icn/AF8DXwbR5/YbYzKBcQR8XzGQrSapRtfoRBLCDWw2Cbqi4nVLsMExYsKkYYlF3Bc1JH8C3wHfANKRy+JAXBNlXiWPzS3ShrbUwq9tjp28njMamOt/L9ytCIHYazeS8Qc4ptZruCl6Qw+IY0Rfgj1dTArURp/aIGx6ROfUyqz3ijvmB26/GEatuxcTExTiZ6SFp4eEZaLPyKNDV4QQqCHaouwiCQ7o+ox3JqcEkKgMM8PlJtOZ4yZ+1gTForeEoKga9J3UAcn5M6BjsC6f6K2hxRLehPSJ3AaT4ek9YWTkhhcU2cZRjrBfXxiOvbj5Lur/L0gPrYoVpPuCY+b/CIagFipxjb2BFIfVFOGXYaRrm4eE10Bg9I6wZxjNtjDAKpTzaoFhWbavrGMNjm+icSt1f6L0tapajpsrbjdqMR1Y5C07ArkPppUV3PfUCsPo4ahm7XK+D7huP3LR671GfU9VmaV8/x+0b16xHUj7ruCvg3zQX9mmrb5r4V7xR4R3MYvQb2WzzHP2kfXv/CsFu3prqeW9tNnyswCKThaF3Xi6YChoLUX53r13UBSYBhICkzDCQBhoGkzDCQBBgGkjLDQBJgGEjKDANJgGEgKTMM1EV8VZcGyDD4fExvGG0YBgNmGHxermpjWtxuo9V39qmfDIPPQ/37+S5rt9uGgZ3BgBkGwxfTgHNmr6Mft89I19hv4wjDYLD8ToThihCYkILgd9LVjPbycZ/0LTun2BkIw+A2dVmIW8arJR4TYXBGKvyfgZ+AX0mhcJj/1iUMNFCGwXKmteNdaHMdwbop1bfwfgR+Ad6SwuBD/l2XMNCAGQbdjYC/5fGPDo/71AD51M7gkHRB1N183COtARgGAgyDu1ROI5bZ4//UzuCQaq3gIA8XBPV/hsHdiHfoCak4y2PblfxP6QzOSYV/zOy38XbZSehqHxcce8UwWL1ya++sdjynfbEs2xlM8mvEa8Xocn7BMg4wDHrFMFitMgiOGsYx7c/oWyYM1mkfz1jsla5hEKewarG4Zn3Zor8nreDHcehzdqcJPdM1DN6s5L8Ypvq23i7wH9LW3juGXyxDD7vB6RoGfWtV1ynCILb1dkkn/bzNt/s4p/7uhr/HesQ5KeziZ/VA1zB4hV+71kZ5KnAZBu+A35gNg8s5z3Ef+WYwYHYGq1PvDPZro+upwNJK2RmsRr0zaNpFOKVfXYEGzs5gdcoTfurjAjsC3TNdw+A1dgZtfOrlxaQ71zUMPIFEGiivdCQJMAwkZYaBJKD7moELYNJA2RlIAgwDSZlhIAkwDCRlhoEkoPtuwiUpQKZ4WrJ0H9zaG3rXMPgJGJOCwDCQ1u/lbT3RMp9aHOVhGEjrt7YweIWdgXSf/P22nmiZzsAwkAZo2c7AXQhpYOwMJAHdw+AHUghEZ2AgSAPRNQxOV/JfSFo75/6SAMNAUmYYSAIMA0mZYSAJMAwkZYaBJMAwkJQtOumo6QImXipd6ofOtVp2BtPaUVL/1et6bn3HJczKO/qNwVL/NdXywpoeARPgqjiWw0CQ+mfK9Zou67zRiHSR04s5R0n9FDXcuq5H+Q4XwHnDsDOQ+mfK/Jq+mPegCIOTOeMSA0Hqkympbo9prukbw+AIOKyNj8AZrh1IfRFrBWfM1nHcPqZFGBwDB8B+bRzlv7u7IN1vUaPx5l6v5QNuCINxPm4CW8A28AXwAHiYj5v5fnFfL3Um3S8RBOekDuAD8Bb4kfTFRz8Dv5JC4ZjUPVwzzk8yoir4MSkYIhy2qK6IXH55iqEgrVd061ekIDgC9oBfgDd5/Jh/fk819W80Lm5vUBV9XP04AqC8z0bD7yTdnfIkotgA+J1U8BEEP5CC4L/ALlVXMPc8g/hsQjzhAVUnsMFs6/EMeAI8Jk0htvPj64EhaXXiJKJLUm2ekOrzgNkweEOaKuzmv8Xu4FwRBlOqFcgIgnjhCIM9ZsNgi2o9we9RkFYv1gYmVCcRNYXBW1JH8Bupbg9J9b1wE6D81OKEdCn06Aiuihf7SBUGO8x2BmV4GAjSapRTgwiD6AyOSGGwSwqAd6Rg2CPV7gkLpgeh/hHmchtxUrxYGQZlZ7DF7BqDpNWJ2ow36npn8IFUp/ukNYQjWkwPwrwCHpPe+R8Cj0gB8GUe8zoDw0Barfo0oewMfs8jTi46yX+/sSMINxXwJtfPPYjhAqJ095oWEGOcktYGzlnig4Zt383jPITNYsSug52BdDfKzmDC7CcTL6k+pixJkiRJkiRJt+t/V97P+DmpdCAAAAAASUVORK5CYII=" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad35" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f6ebd3"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad35)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,456.587)">
+          <path d="M0,11.9383 C0,5.34497 5.34497,0 11.9383,0 L234.062,0 C240.655,0 246,5.34497 246,11.9383 L246,77.8235 C246,84.4168 240.655,89.7618 234.062,89.7618 L11.9383,89.7618 C5.34497,89.7618 0,84.4168 0,77.8235 L0,11.9383 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad36" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f6ebd3"/>
+            </linearGradient>
+            <clipPath id="clip24">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip24)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.497,460.084)">
+            <path d="M1,1 L45,1 L45,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip25">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip25)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.497,460.084)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="44" x="1" xml:space="preserve" y="10.2344">Pressed</text>
+          </g>
+          <defs>
+            <clipPath id="clip26">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip26)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.497,460.084)">
+            <path d="M1,13 L17.6719,13 L17.6719,24.9844 L1,24.9844 L1,13 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip27">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip27)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.497,460.084)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="16.6719" x="1" xml:space="preserve" y="22.2344">en:</text>
+          </g>
+          <defs>
+            <clipPath id="clip28">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip28)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.497,460.084)">
+            <path d="M1,25 L135.297,25 L135.297,36.9844 L1,36.9844 L1,25 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip29">
+              <path d="M-139.159,-325.432 L620.527,-325.432 L620.527,323.614 L-139.159,323.614 L-139.159,-325.432 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip29)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.497,460.084)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="134.297" x="1" xml:space="preserve" y="34.2344">Up_Switch_Output= true;</text>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad38" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f6ebd3"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,456.587)">
+            <path d="M0,11.9383 C0,5.34497 5.34497,0 11.9383,0 L234.062,0 C240.655,0 246,5.34497 246,11.9383 L246,77.8235 C246,84.4168 240.655,89.7618 234.062,89.7618 L11.9383,89.7618 C5.34497,89.7618 0,84.4168 0,77.8235 L0,11.9383 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="Tilt_Telescopic_Switch:132:8">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad39" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f6ebd3"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,212.5,696.055)">
+          <image height="93" preserveAspectRatio="none" width="258" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad40" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f7ecd6"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad40)" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,697.555)">
+          <path d="M0,10.7254 C0,4.80193 4.80193,0 10.7254,0 L235.275,0 C241.198,0 246,4.80193 246,10.7254 L246,69.9168 C246,75.8403 241.198,80.6422 235.275,80.6422 L10.7254,80.6422 C4.80193,80.6422 0,75.8403 0,69.9168 L0,10.7254 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad41" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f7ecd6"/>
+            </linearGradient>
+            <clipPath id="clip31">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip31)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.141,700.697)">
+            <path d="M1,1 L31,1 L31,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip32">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip32)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.141,700.697)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="30" x="1" xml:space="preserve" y="10.2344">Stuck</text>
+          </g>
+          <defs>
+            <clipPath id="clip33">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip33)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.141,700.697)">
+            <path d="M1,13 L17.6719,13 L17.6719,24.9844 L1,24.9844 L1,13 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip34">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip34)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.141,700.697)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="16.6719" x="1" xml:space="preserve" y="22.2344">en:</text>
+          </g>
+          <defs>
+            <clipPath id="clip35">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip35)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.141,700.697)">
+            <path d="M1,25 L139.969,25 L139.969,36.9844 L1,36.9844 L1,25 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip36">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip36)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.141,700.697)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="138.969" x="1" xml:space="preserve" y="34.2344">Up_Switch_Output= false;</text>
+          </g>
+          <defs>
+            <clipPath id="clip37">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip37)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,217.141,700.697)">
+            <path d="M1,37 L107.297,37 L107.297,48.9844 L1,48.9844 L1,37 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip38">
+              <path d="M-138.803,-566.045 L620.882,-566.045 L620.882,83.0007 L-138.803,83.0007 L-138.803,-566.045 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip38)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,217.141,700.697)">
+            <text fill="#000000" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="106.297" x="1" xml:space="preserve" y="46.2344">Switch_Stuck= true;</text>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad43" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f7ecd6"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,214,697.555)">
+            <path d="M0,10.7254 C0,4.80193 4.80193,0 10.7254,0 L235.275,0 C241.198,0 246,4.80193 246,10.7254 L246,69.9168 C246,75.8403 241.198,80.6422 235.275,80.6422 L10.7254,80.6422 C4.80193,80.6422 0,75.8403 0,69.9168 L0,10.7254 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:15">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad44" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f7ecd6"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M249.967,639.452 C249.967,639.452 249.967,640.935 249.967,641.709 C249.967,642.482 249.967,643.284 249.967,644.094 C249.967,644.904 249.967,645.735 249.967,646.569 C249.967,647.404 249.967,648.252 249.967,649.1 C249.967,649.947 249.967,650.803 249.967,651.654 C249.967,652.504 249.967,653.359 249.967,654.205 C249.967,655.05 249.967,655.895 249.967,656.729 C249.967,657.563 249.967,658.391 249.967,659.207 C249.967,660.023 249.967,660.831 249.967,661.624 C249.967,662.418 249.967,663.201 249.967,663.968 C249.967,664.736 249.967,665.491 249.967,666.231 C249.967,666.972 249.967,667.698 249.967,668.41 C249.967,669.122 249.967,669.819 249.967,670.504 C249.967,671.188 249.967,671.858 249.967,672.516 C249.967,673.175 249.967,673.82 249.967,674.456 C249.967,675.093 249.967,675.716 249.967,676.335 C249.967,676.953 249.967,677.561 249.967,678.167 C249.967,678.773 249.967,679.371 249.967,679.973 C249.967,680.574 249.967,681.171 249.967,681.776 C249.967,682.38 249.967,682.984 249.967,683.602 C249.967,684.22 249.967,684.842 249.967,685.484 C249.967,686.126 249.967,686.777 249.967,687.455 C249.967,688.134 249.967,689.555 249.967,689.555" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip40">
+              <path d="M-183.836,-522.168 L575.85,-522.168 L575.85,126.879 L-183.836,126.879 L-183.836,-522.168 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip40)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,262.174,656.819)">
+            <path d="M1,1 L113.188,1 L113.188,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip41">
+              <path d="M-183.836,-522.168 L575.85,-522.168 L575.85,126.879 L-183.836,126.879 L-183.836,-522.168 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip41)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,262.174,656.819)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="112.188" x="1" xml:space="preserve" y="10.2344">[Tilt_Up_Input==true]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,249.967,689.555)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,-1,1,6.12323e-17,249.967,639.452)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:11">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M402.347,369.2 C402.347,369.2 402.347,371.533 402.347,372.733 C402.347,373.933 402.347,375.162 402.347,376.4 C402.347,377.637 402.347,378.897 402.347,380.16 C402.347,381.423 402.347,382.7 402.347,383.977 C402.347,385.253 402.347,386.539 402.347,387.819 C402.347,389.099 402.347,390.383 402.347,391.658 C402.347,392.933 402.347,394.206 402.347,395.469 C402.347,396.731 402.347,397.988 402.347,399.232 C402.347,400.476 402.347,401.711 402.347,402.932 C402.347,404.152 402.347,405.362 402.347,406.555 C402.347,407.749 402.347,408.93 402.347,410.095 C402.347,411.26 402.347,412.411 402.347,413.547 C402.347,414.683 402.347,415.803 402.347,416.91 C402.347,418.018 402.347,419.109 402.347,420.19 C402.347,421.27 402.347,422.336 402.347,423.394 C402.347,424.451 402.347,425.495 402.347,426.533 C402.347,427.572 402.347,428.599 402.347,429.625 C402.347,430.651 402.347,431.669 402.347,432.69 C402.347,433.711 402.347,434.727 402.347,435.751 C402.347,436.776 402.347,437.799 402.347,438.837 C402.347,439.875 402.347,440.917 402.347,441.98 C402.347,443.044 402.347,444.116 402.347,445.217 C402.347,446.318 402.347,448.587 402.347,448.587" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip43">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip43)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,412.801,421.17)">
+            <path d="M1,1 L4.32812,1 L4.32812,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip44">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip44)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,412.801,421.17)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="3.32812" x="1" xml:space="preserve" y="10.2344">[</text>
+          </g>
+          <defs>
+            <clipPath id="clip45">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip45)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,412.801,421.17)">
+            <path d="M4,1 L27.9844,1 L27.9844,12.9844 L4,12.9844 L4,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip46">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip46)" fill="none" opacity="1" stroke="#0e3d74" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,412.801,421.17)">
+            <text fill="#0e3d74" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="23.9844" x="4.32812" xml:space="preserve" y="10.2344">after</text>
+          </g>
+          <defs>
+            <clipPath id="clip47">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip47)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,412.801,421.17)">
+            <path d="M28,1 L183.297,1 L183.297,12.9844 L28,12.9844 L28,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip48">
+              <path d="M-334.463,-286.519 L425.223,-286.519 L425.223,362.528 L-334.463,362.528 L-334.463,-286.519 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip48)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,412.801,421.17)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="155.297" x="28.3125" xml:space="preserve" y="10.2344">(switch_debounce_time,sec)]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,402.347,448.587)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,-1,1,6.12323e-17,402.347,369.2)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:17">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M706.784,434.762 C706.784,434.762 706.536,424.843 706.07,419.831 C705.604,414.82 704.895,409.758 703.985,404.692 C703.075,399.627 701.937,394.527 700.61,389.439 C699.283,384.351 697.742,379.245 696.025,374.164 C694.308,369.084 692.389,364 690.307,358.957 C688.225,353.914 685.955,348.883 683.533,343.907 C681.111,338.931 678.514,333.981 675.777,329.1 C673.04,324.218 670.14,319.378 667.112,314.62 C664.084,309.862 660.905,305.159 657.609,300.551 C654.313,295.943 650.878,291.404 647.337,286.973 C643.795,282.542 640.126,278.193 636.362,273.965 C632.598,269.737 628.717,265.604 624.751,261.604 C620.786,257.605 616.714,253.713 612.568,249.966 C608.422,246.219 604.18,242.593 599.874,239.123 C595.568,235.653 591.176,232.316 586.73,229.147 C582.283,225.978 577.761,222.953 573.193,220.107 C568.625,217.261 563.992,214.571 559.322,212.071 C554.651,209.57 549.925,207.237 545.17,205.104 C540.414,202.97 535.613,201.016 530.79,199.27 C525.968,197.525 521.108,195.968 516.235,194.631 C511.362,193.294 506.46,192.156 501.553,191.247 C496.646,190.337 491.718,189.638 486.793,189.175 C481.867,188.713 472,188.472 472,188.472" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip50">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip50)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,672.102,295.197)">
+            <path d="M1,1 L4.32812,1 L4.32812,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip51">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip51)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,672.102,295.197)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="3.32812" x="1" xml:space="preserve" y="10.2344">[</text>
+          </g>
+          <defs>
+            <clipPath id="clip52">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip52)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,672.102,295.197)">
+            <path d="M4,1 L27.9844,1 L27.9844,12.9844 L4,12.9844 L4,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip53">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip53)" fill="none" opacity="1" stroke="#0e3d74" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,672.102,295.197)">
+            <text fill="#0e3d74" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="23.9844" x="4.32812" xml:space="preserve" y="10.2344">after</text>
+          </g>
+          <defs>
+            <clipPath id="clip54">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip54)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,672.102,295.197)">
+            <path d="M28,1 L164.609,1 L164.609,12.9844 L28,12.9844 L28,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip55">
+              <path d="M-593.764,-160.546 L165.922,-160.546 L165.922,488.501 L-593.764,488.501 L-593.764,-160.546 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip55)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,672.102,295.197)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="136.609" x="28.3125" xml:space="preserve" y="10.2344">(stuck_release_time,sec)]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,-1,1,6.12323e-17,472,188.472)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,1,-1,6.12323e-17,706.784,434.762)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:2">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M267.997,140.651 C267.997,140.651 267.997,141.333 267.997,141.719 C267.997,142.105 267.997,142.53 267.997,142.968 C267.997,143.406 267.997,143.873 267.997,144.344 C267.997,144.816 267.997,145.308 267.997,145.799 C267.997,146.289 267.997,146.791 267.997,147.287 C267.997,147.782 267.997,148.282 267.997,148.77 C267.997,149.258 267.997,149.745 267.997,150.216 C267.997,150.687 267.997,151.151 267.997,151.597 C267.997,152.043 267.997,152.477 267.997,152.891 C267.997,153.305 267.997,153.704 267.997,154.082 C267.997,154.46 267.997,154.819 267.997,155.158 C267.997,155.497 267.997,155.816 267.997,156.115 C267.997,156.414 267.997,156.691 267.997,156.951 C267.997,157.211 267.997,157.45 267.997,157.674 C267.997,157.897 267.997,158.101 267.997,158.293 C267.997,158.484 267.997,158.658 267.997,158.825 C267.997,158.991 267.997,159.142 267.997,159.292 C267.997,159.441 267.997,159.579 267.997,159.721 C267.997,159.864 267.997,159.999 267.997,160.146 C267.997,160.294 267.997,160.439 267.997,160.605 C267.997,160.771 267.997,160.942 267.997,161.142 C267.997,161.342 267.997,161.554 267.997,161.806 C267.997,162.057 267.997,162.651 267.997,162.651" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,267.997,162.651)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#4a549a" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(6.12323e-17,-1,1,6.12323e-17,267.997,140.651)">
+            <path d="M6,0 C6,3.31371 3.31371,6 0,6 C-3.31371,6 -6,3.31371 -6,0 C-6,-3.31371 -3.31371,-6 0,-6 C3.31371,-6 6,-3.31371 6,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:18">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M245.695,546.349 C245.695,546.349 245.695,547.801 245.695,548.527 C245.695,549.253 245.695,549.98 245.695,550.706 C245.695,551.432 245.695,552.158 245.695,552.884 C245.695,553.61 245.695,554.336 245.695,555.062 C245.695,555.789 245.695,556.515 245.695,557.241 C245.695,557.967 245.695,558.693 245.695,559.419 C245.695,560.145 245.695,560.872 245.695,561.598 C245.695,562.324 245.695,563.05 245.695,563.776 C245.695,564.502 245.695,565.228 245.695,565.954 C245.695,566.681 245.695,567.407 245.695,568.133 C245.695,568.859 245.695,569.585 245.695,570.311 C245.695,571.037 245.695,571.764 245.695,572.49 C245.695,573.216 245.695,573.942 245.695,574.668 C245.695,575.394 245.695,576.12 245.695,576.846 C245.695,577.573 245.695,578.299 245.695,579.025 C245.695,579.751 245.695,580.477 245.695,581.203 C245.695,581.929 245.695,582.656 245.695,583.382 C245.695,584.108 245.695,584.834 245.695,585.56 C245.695,586.286 245.695,587.012 245.695,587.738 C245.695,588.465 245.695,589.191 245.695,589.917 C245.695,590.643 245.695,591.369 245.695,592.095 C245.695,592.821 245.695,593.548 245.695,594.274 C245.695,595 245.695,596.452 245.695,596.452" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip57">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip57)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,256.841,567.653)">
+            <path d="M1,1 L4.32812,1 L4.32812,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip58">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip58)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,256.841,567.653)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="3.32812" x="1" xml:space="preserve" y="10.2344">[</text>
+          </g>
+          <defs>
+            <clipPath id="clip59">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip59)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,256.841,567.653)">
+            <path d="M4,1 L27.9844,1 L27.9844,12.9844 L4,12.9844 L4,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip60">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip60)" fill="none" opacity="1" stroke="#0e3d74" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,256.841,567.653)">
+            <text fill="#0e3d74" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="23.9844" x="4.32812" xml:space="preserve" y="10.2344">after</text>
+          </g>
+          <defs>
+            <clipPath id="clip61">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip61)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,256.841,567.653)">
+            <path d="M28,1 L244.594,1 L244.594,12.9844 L28,12.9844 L28,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip62">
+              <path d="M-178.503,-433.002 L581.183,-433.002 L581.183,216.045 L-178.503,216.045 L-178.503,-433.002 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip62)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,256.841,567.653)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="216.594" x="28.3125" xml:space="preserve" y="10.2344">(stuck_time-switch_debounce_time,sec)]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,238.359,545.729)">
+            <image height="25" preserveAspectRatio="none" width="20" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAyklEQVQ4je2UMQrCMBSGv1fqIoIidBLxGE6O3kCv4iG8it7A0xR1EKlaEBcxv4toa0Bb6CDqBxnyk3zvJYTAp2PPgU7xCMeYgOgeOrYEzKzem78Thl7iGGP0Ea1M2QMOgHJCpcs2gYtusmZuZbbjFwS5WU3DIpuKCyvAv0ORgKWYHsVkKVJSXni2BSEDYI9yD2APtikizB3Zmt0d0gUkb0iX0sIq+EGh/2zQCrMEZSIjQVoVEXqfA4CO8QToZKK1NXrTEo3++fNdXAHf2z/2HpCLoAAAAABJRU5ErkJggg==" y="0"/>
+          </g>
+          <defs>
+            <clipPath id="clip63">
+              <path d="M-163.021,-414.077 L596.665,-414.077 L596.665,234.969 L-163.021,234.969 L-163.021,-414.077 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip63)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,241.359,548.729)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="6.67188" x="1" xml:space="preserve" y="10.2344">1</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,245.695,596.452)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,-1,1,6.12323e-17,245.695,546.349)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:10">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M402,231.972 C402,231.972 402,234.498 402,235.795 C402,237.091 402,238.417 402,239.751 C402,241.086 402,242.442 402,243.802 C402,245.161 402,246.536 402,247.91 C402,249.283 402,250.666 402,252.043 C402,253.42 402,254.8 402,256.172 C402,257.544 402,258.915 402,260.274 C402,261.633 402,262.987 402,264.328 C402,265.669 402,267.001 402,268.318 C402,269.635 402,270.941 402,272.231 C402,273.522 402,274.798 402,276.06 C402,277.322 402,278.568 402,279.8 C402,281.032 402,282.249 402,283.452 C402,284.655 402,285.843 402,287.019 C402,288.196 402,289.357 402,290.51 C402,291.663 402,292.803 402,293.937 C402,295.071 402,296.194 402,297.316 C402,298.438 402,299.55 402,300.667 C402,301.783 402,302.895 402,304.015 C402,305.135 402,306.253 402,307.387 C402,308.521 402,309.658 402,310.817 C402,311.976 402,313.144 402,314.341 C402,315.539 402,318 402,318" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip65">
+              <path d="M0,-111.612 L759.686,-111.612 L759.686,537.435 L0,537.435 L0,-111.612 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip65)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,78.338,246.263)">
+            <path d="M1,1 L313.094,1 L313.094,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip66">
+              <path d="M0,-111.612 L759.686,-111.612 L759.686,537.435 L0,537.435 L0,-111.612 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip66)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,78.338,246.263)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="312.094" x="1" xml:space="preserve" y="10.2344">[(Previous_Switch_Stuck== false)&amp;&amp;(Tilt_Up_Input==true)]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,402,318)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,-1,1,6.12323e-17,402,231.972)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:16">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M460,742.555 C460,742.555 470.438,742.256 475.699,741.699 C480.959,741.141 486.266,740.292 491.565,739.211 C496.864,738.129 502.191,736.776 507.493,735.209 C512.795,733.642 518.107,731.824 523.378,729.809 C528.65,727.794 533.914,725.547 539.122,723.121 C544.33,720.695 549.514,718.054 554.628,715.252 C559.742,712.449 564.816,709.449 569.805,706.303 C574.795,703.157 579.729,699.831 584.566,696.374 C589.403,692.917 594.17,689.296 598.826,685.559 C603.483,681.821 608.056,677.936 612.506,673.947 C616.957,669.958 621.31,665.838 625.53,661.626 C629.75,657.414 633.859,653.085 637.825,648.677 C641.79,644.269 645.634,639.757 649.323,635.179 C653.013,630.6 656.569,625.93 659.961,621.205 C663.353,616.479 666.601,611.675 669.677,606.825 C672.753,601.975 675.675,597.058 678.416,592.106 C681.157,587.153 683.734,582.144 686.124,577.109 C688.514,572.073 690.731,566.991 692.753,561.891 C694.776,556.791 696.617,551.655 698.259,546.508 C699.9,541.36 701.353,536.186 702.599,531.007 C703.846,525.829 704.898,520.631 705.738,515.436 C706.579,510.24 707.219,505.034 707.643,499.835 C708.067,494.636 708.284,484.241 708.284,484.241" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip68">
+              <path d="M-605.856,-457.595 L153.83,-457.595 L153.83,191.451 L-605.856,191.451 L-605.856,-457.595 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip68)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,684.194,592.247)">
+            <path d="M1,1 L117.859,1 L117.859,12.9844 L1,12.9844 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <defs>
+            <clipPath id="clip69">
+              <path d="M-605.856,-457.595 L153.83,-457.595 L153.83,191.451 L-605.856,191.451 L-605.856,-457.595 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip69)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,684.194,592.247)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="116.859" x="1" xml:space="preserve" y="10.2344">[Tilt_Up_Input==false]</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,708.284,484.241)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,460,742.555)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="line">
+        <!--RAWSTRING-->
+        <g id="Tilt_Telescopic_Switch:132:19">
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M262.784,456.587 C262.784,456.587 262.784,454.254 262.784,453.054 C262.784,451.854 262.784,450.625 262.784,449.388 C262.784,448.15 262.784,446.89 262.784,445.627 C262.784,444.365 262.784,443.087 262.784,441.81 C262.784,440.534 262.784,439.248 262.784,437.968 C262.784,436.688 262.784,435.404 262.784,434.129 C262.784,432.854 262.784,431.581 262.784,430.318 C262.784,429.056 262.784,427.799 262.784,426.555 C262.784,425.311 262.784,424.076 262.784,422.855 C262.784,421.635 262.784,420.426 262.784,419.232 C262.784,418.038 262.784,416.857 262.784,415.692 C262.784,414.527 262.784,413.376 262.784,412.24 C262.784,411.105 262.784,409.984 262.784,408.877 C262.784,407.77 262.784,406.678 262.784,405.597 C262.784,404.517 262.784,403.451 262.784,402.394 C262.784,401.336 262.784,400.292 262.784,399.254 C262.784,398.215 262.784,397.188 262.784,396.162 C262.784,395.136 262.784,394.118 262.784,393.097 C262.784,392.076 262.784,391.061 262.784,390.036 C262.784,389.012 262.784,387.988 262.784,386.95 C262.784,385.912 262.784,384.87 262.784,383.807 C262.784,382.744 262.784,381.671 262.784,380.57 C262.784,379.469 262.784,377.2 262.784,377.2" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,255.448,437.207)">
+            <image height="25" preserveAspectRatio="none" width="20" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+ElEQVQ4je2SsU4CQRCGvxmosOC45EAaQ2NtfAJ6G98LnsLCCi2oeAIegEeQinAJOUOgMGHHhpzrBe4WohaGv9v9Z7/5szPww5Jjhm3mj3nR1c34LKBt3wZAFwBnNc9aoEyl0XsNBtp2PsSsD8Sev0JY5ydnS5SXMnDdy3e9h0WeX8O4/WovGQ4BQoAHFQHNbzdKUvZAK4Any0soC7BVoVnrfKDbPSPaBDpgHZA2YMC7V5/hSAMT6h1YAhIXaiyHYTOQSSCQB5B7IDqy7/He/wCeqoFKgh2YalF/PeVfXBtHipBV1J8wZWWEo/yPHCnKKCjqRRf9J30CM2A8nHvkUkAAAAAASUVORK5CYII=" y="0"/>
+          </g>
+          <defs>
+            <clipPath id="clip70">
+              <path d="M-180.11,-305.556 L579.576,-305.556 L579.576,343.49 L-180.11,343.49 L-180.11,-305.556 z"/>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#clip70)" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,258.448,440.207)">
+            <text fill="#4a549a" fill-opacity="1" font-family="Helvetica" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="6.67188" x="1" xml:space="preserve" y="10.2344">2</text>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#4a549a" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,262.784,377.2)">
+            <path d="M-2,0 L2,0 L0,-8 L-2,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="0.01" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(6.12323e-17,1,-1,6.12323e-17,262.784,456.587)">
+            <path d="M0,0 L1,0 L1,1 L0,1 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+    </g>
+  </g>
+  <!--generated on osx @ 2023-03-21 15:32:06 CET-->
+</svg>

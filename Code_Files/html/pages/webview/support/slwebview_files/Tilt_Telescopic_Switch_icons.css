@@ -1,0 +1,17 @@
+.Tilt_Telescopic_Switch0,
+.Tilt_Telescopic_Switch1,
+.Tilt_Telescopic_Switch2,
+.Tilt_Telescopic_Switch3,
+.Tilt_Telescopic_Switch4,
+.Tilt_Telescopic_Switch5,
+.Tilt_Telescopic_Switch6,
+.Tilt_Telescopic_Switch7 { background-image: url('Tilt_Telescopic_Switch_icons.png'); width: 16px; height: 16px; }
+
+.Tilt_Telescopic_Switch0 { background-position: -0px; }
+.Tilt_Telescopic_Switch1 { background-position: -16px; }
+.Tilt_Telescopic_Switch2 { background-position: -32px; }
+.Tilt_Telescopic_Switch3 { background-position: -48px; }
+.Tilt_Telescopic_Switch4 { background-position: -64px; }
+.Tilt_Telescopic_Switch5 { background-position: -80px; }
+.Tilt_Telescopic_Switch6 { background-position: -96px; }
+.Tilt_Telescopic_Switch7 { background-position: -112px; }
